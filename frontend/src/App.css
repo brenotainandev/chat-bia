@@ -1,0 +1,86 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #36393f;
+  font-family: Arial, sans-serif;
+}
+
+.chat {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  overflow-y: auto;
+  width: 60%;
+  height: 70%;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #2f3136;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Personalize a barra de rolagem */
+.chat::-webkit-scrollbar {
+  width: 12px;
+}
+
+.chat::-webkit-scrollbar-thumb {
+  background-color: #7289da;
+  border-radius: 6px;
+}
+
+.chat::-webkit-scrollbar-track {
+  background-color: #40444b;
+}
+
+.user, .bot {
+  max-width: 70%;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 20px;
+  color: #fff;
+}
+
+.user {
+  align-self: flex-end;
+  background-color: #7289da;
+}
+
+.bot {
+  align-self: flex-start;
+  background-color: #99aab5;
+}
+
+input {
+  width: 60%;
+  margin-top: 20px;
+  padding: 10px;
+  border: none;
+  border-radius: 20px;
+  outline: none;
+  color: #fff;
+  background-color: #40444b;
+}
+
+button {
+  margin-left: 10px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  background-color: #7289da;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #5b6eae;
+}
+
+h1 {
+  color: #7289da;
+  text-align: center;
+  padding: 20px 0;
+}

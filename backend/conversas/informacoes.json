@@ -1,0 +1,60 @@
+{
+  "conversas": [
+    {
+      "mensagens": [
+        "quais são os tipos de fertilizantes disponíveis na loja?",
+        "tem fertilizantes?",
+        "tem fertilizante?",
+        "vocês vendem fertilizantes?",
+        "vocês tem fertilizantes?",
+        "vocês tem fertilizante?",
+        "quais fertilizantes disponíveis"
+      ],
+      "resposta": "Na nossa loja, temos uma variedade de fertilizantes disponíveis, incluindo fertilizantes orgânicos e químicos. Temos opções para diferentes tipos de culturas e necessidades específicas."
+    },
+    {
+      "mensagens": [
+        "Vocês oferecem produtos para o controle de pragas e doenças nas plantações?",
+        "tem produtos para o controle de pragas",
+        "vocês tem produtos para o controle de pragas?",
+        "vocês vendem produtos para o controle de pragas?",
+        "vocês tem produtos para o controle de doenças?",
+        "vocês vendem produtos para o controle de doenças?"
+      ],
+      "resposta": "Sim, oferecemos uma ampla gama de produtos para o controle de pragas e doenças nas plantações. Temos defensivos agrícolas eficazes para ajudar a proteger suas culturas."
+    },
+    {
+      "mensagens": [
+        "quais são as opções de ração para animais de criação que vocês têm disponíveis?",
+        "vocês tem ração para animais de criação?",
+        "vocês vendem ração para animais de criação?",
+        "vocês tem ração para animais?",
+        "tem ração",
+        "vocês vendem ração?"
+      ],
+      "resposta": "Temos diversas opções de ração para animais de criação, como bovinos, suínos, aves e outros. Nossas rações são formuladas para atender às necessidades nutricionais específicas de cada espécie."
+    },
+    {
+      "mensagens": [
+        "vocês vendem equipamentos agrícolas, como tratores e implementos?",
+        "vocês tem equipamentos agrícolas?",
+        "tem equipamentos agrícolas?"
+      ],
+      "resposta": "Sim, oferecemos uma variedade de equipamentos agrícolas, incluindo tratores, implementos e máquinas para auxiliar nas atividades agrícolas. Entre em contato conosco para mais informações sobre os produtos disponíveis."
+    },
+    {
+      "mensagens": [
+        "quais são as opções de sementes e mudas que posso encontrar na loja?",
+        "vocês tem sementes e mudas?",
+        "vocês vendem sementes e mudas?",
+        "vocês tem sementes?",
+        "vocês vendem sementes?",
+        "vocês tem mudas?",
+        "vocês vendem mudas?",
+        "tem sementes?",
+        "tem mudas?"
+      ],
+      "resposta": "Em nossa loja, você encontrará uma ampla variedade de sementes e mudas de diferentes culturas. Temos opções de alta qualidade e variedades adaptadas às condições locais. Venha nos visitar para conhecer todas as opções disponíveis."
+    }
+  ]
+}
